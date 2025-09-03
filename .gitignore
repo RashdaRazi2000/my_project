@@ -1,0 +1,16 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore data/model files
+data/
+*.h5
+*.pkl
+*.csv
+
+# Ignore OS files
+.DS_Store
